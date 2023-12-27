@@ -13,7 +13,7 @@ setuptools.setup(
     description="Streamlit pdf reader component",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/B4PT0R/streamlit_pdf_reader",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[],
