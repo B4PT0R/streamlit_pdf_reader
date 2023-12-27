@@ -1,4 +1,4 @@
-# streamlit-pdf-viewer
+# streamlit-pdf-reader
 
 Streamlit pdf reader component
 
