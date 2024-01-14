@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit_pdf_reader",
-    version="0.0.2",
+    version="0.0.3",
     author="Baptiste Ferrand",
     author_email="bferrand.maths@gmail.com",
     description="Streamlit pdf reader component",
